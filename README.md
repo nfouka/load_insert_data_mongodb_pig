@@ -1,0 +1,1 @@
+# load_insert_data_mongodb_pig
